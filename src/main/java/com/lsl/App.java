@@ -16,6 +16,8 @@ public class App
         System.out.println("hot-fix");
         System.out.println("mastertest");
         System.out.println("hot-fixtest");
+        System.out.println("mastertest");
+        System.out.println("hot-fixtest");
 
 
     }
